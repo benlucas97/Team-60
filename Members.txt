@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+LIST OF MEMBERS FOR TEAM 060 Ben Lucas
+ 
+MEMBER 1 Ben Lucas
+=======
 LIST OF MEMBERS FOR TEAM XXX 
  
 MEMBER 1 Ben Lucas, John Kathros
+>>>>>>> origin/master
  
 <<<<<<< HEAD
 <<<<<<< HEAD
