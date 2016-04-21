@@ -1,6 +1,6 @@
 LIST OF MEMBERS FOR TEAM 060
  
-MEMBER 1 Ben Lucas
+MEMBER 1 Yuhua Liang
  
 <<<<<<< HEAD
 MEMBER 2 NAME
