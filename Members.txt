@@ -2,8 +2,13 @@ LIST OF MEMBERS FOR TEAM XXX
  
 MEMBER 1 Ben Lucas
  
+<<<<<<< HEAD
 MEMBER 2 NAME
 
+=======
+MEMBER 2 RODAN KAKA
+ 
+>>>>>>> origin/master
 MEMBER 3 Yuhua Liang
  
 MEMBER 4 John Kathros
