@@ -1,9 +1,18 @@
-LIST OF MEMBERS FOR TEAM XXX
+LIST OF MEMBERS FOR TEAM 060
  
 MEMBER 1 Ben Lucas
  
+<<<<<<< HEAD
 MEMBER 2 RODAN KAKA (raftek)
+=======
+<<<<<<< HEAD
+MEMBER 2 NAME
+
+=======
+MEMBER 2 RODAN KAKA
+>>>>>>> 4af4442f6e6e531d0fe7beb2cf7b1ec499f31172
  
+>>>>>>> origin/master
 MEMBER 3 Yuhua Liang
  
-MEMBER 4 NAME
+MEMBER 4 John Kathros
